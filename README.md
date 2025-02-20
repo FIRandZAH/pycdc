@@ -10,7 +10,13 @@
 - install modul yang di perlukan.
 
 ```sh
-git clone https://github.com/FIRandZAH/decode
-chmod +x decode
-./decode
+pip install pycryptodome
+```
+- bisa di download pake browser yang di gunakan format .zip atau dengan perintah.
+```sh
+git clone https://github.com/FIRandZAH/pycdc
+```
+- setelah di download masuk ke folder tersebut extract dengan.
+```sh
+git clone https://github.com/FIRandZAH/pycdc
 ```
