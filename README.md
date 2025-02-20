@@ -16,7 +16,13 @@ pip install pycryptodome
 ```sh
 git clone https://github.com/FIRandZAH/pycdc
 ```
-- setelah di download masuk ke folder tersebut extract dengan.
+- setelah di download masuk ke folder tersebut lalu extract dengan.
 ```sh
-git clone https://github.com/FIRandZAH/pycdc
+python extract.py
+```
+- setelah di extract ada file firzah_pycdc.
+- cara pake seperti pycdc yang lain dengan.
+```sh
+chmod x+ firzah_pycdc
+./firzah_pycdc <folder_file_pyc>
 ```
