@@ -23,6 +23,6 @@ python extract.py
 - setelah di extract ada file firzah_pycdc.
 - cara pake seperti pycdc yang lain dengan.
 ```sh
-chmod x+ firzah_pycdc
+chmod +x firzah_pycdc
 ./firzah_pycdc <folder_file_pyc>
 ```
