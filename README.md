@@ -10,17 +10,21 @@
 - install modul yang di perlukan.
 
 ```sh
-pip install pycryptodome
+pip install tqdm
 ```
-- bisa di download pake browser yang di gunakan format .zip atau dengan perintah.
+- download dengan perintah.
 ```sh
 git clone https://github.com/FIRandZAH/pycdc
 ```
-- setelah di download masuk ke folder tersebut lalu extract dengan.
+- setelah di download masuk ke folder tersebut dengan perintah.
 ```sh
-python extract.py
+cd pycdc
 ```
-- setelah di extract ada file firzah_pycdc.
+- setelah masuk ke folder 'pycdc' download file utama nya dengan perintah.
+```sh
+python Download.py
+```
+- setelah di download ada file 'firzah_pycdc'.
 - cara pake seperti pycdc yang lain dengan.
 ```sh
 chmod +x firzah_pycdc
