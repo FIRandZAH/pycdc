@@ -14,7 +14,7 @@ pip install tqdm
 ```
 - download dengan perintah.
 ```sh
-git clone https://github.com/FIRandZAH/pycdc
+git clone --depth=1 https://github.com/FIRandZAH/pycdc
 ```
 - setelah di download masuk ke folder tersebut dengan perintah.
 ```sh
